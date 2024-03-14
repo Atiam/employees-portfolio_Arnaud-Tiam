@@ -1,9 +1,11 @@
+/*To reset some paramters*/
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
+/*To set some css variables*/
 :root {
     --margin-left-size: 25px;
     --background-color: aqua;
@@ -88,15 +90,12 @@ section div {
 
 
 
-
-
-
 section div article {
     width: 48%;
     height: 65vh;
     margin: 10px;
     position: relative;
-    border: solid aqua 5px; /*May need to deop thsi line*/
+    border: solid aqua 5px; 
 
 }
 
