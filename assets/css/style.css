@@ -93,7 +93,8 @@ section div {
 section div article {
     width: 48%;
     height: 65vh;
-    margin: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     position: relative;
     border: solid aqua 5px; 
 
@@ -133,11 +134,11 @@ h3 {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    padding-left: 0px !important;
     padding: 0px !important;
     width: 100%;
     margin: 0px;
     border-left: none;
+   
   
  
     
