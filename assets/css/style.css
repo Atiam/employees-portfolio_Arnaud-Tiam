@@ -71,8 +71,8 @@ header nav ul  li{
 h2  {
     display: inline-block; 
     margin-left: var(--margin-left-size);
-    padding-right: 5px;
-    width: 5%;
+    /*padding-right: 5px;*/
+    width: 10%;
 
 }
 
@@ -129,12 +129,12 @@ h3 {
     height: 65vh;
 }
 
-
+/*To make the container flex and wrap when neccessary*/
 #flex {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    padding: 0px !important;
+    padding: 0px;
     width: 100%;
     margin: 0px;
     border-left: none;
